@@ -3,6 +3,7 @@
 
 <h1 align="center">I'm Vincent Otieno</h1>
 <h3 align="center">Web Developer from Kenya</h3>
+<marquee width="100%" behavior="alternate" bgcolor="pink">All You need to know about Me..</marquee>  
 
 
 <h3 align="left">Connect with me:</h3>
