@@ -1,3 +1,7 @@
+
+<div id="header" align="center">
+<img src="https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" alt="Coding GIF" style="border-radius:50%">
+</div>
 <h1 align="left">I'm Vincent Otieno</h1>
 <h3 align="left">A Web Developer from Kenya</h3>
 <h2 align="left">About Me</h2> 
