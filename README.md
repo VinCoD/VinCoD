@@ -34,6 +34,8 @@
     📚 Love reading books on Programming.
 
     💬 Ask me about Web and mobile.
+    
+    ✨ I am Currently Working on a link sharing wesite while advancing my django skills
 
 
 <!---
