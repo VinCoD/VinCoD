@@ -12,7 +12,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/OdipoVince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VinCoD" height="25" width="25" /></a>
-<a href="instagram.com/maddetracks/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="VinCoD" height="25" width="25" /></a>
+<a href="https://instagram.com/maddetracks/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="VinCoD" height="25" width="25" /></a>
 <a href="https://www.linkedin.com/in/vincent-otieno-348b66233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vincent Otieno" height="25" width="25" /></a>
 <a href="https://www.youtube.com/channel/UCdMBvHugZtN_FZ6oh8L5BHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vincent Otieno" height="25" width="25" /></a>
 </p>
