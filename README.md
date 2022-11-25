@@ -19,6 +19,7 @@
 <img align="center" src="https://wakatime.com/badge/user/e2738486-9642-4446-a17d-49fc2f5e8b8f.svg" alt="Vincent Otieno" height="20" width="150" />
 
 <div id="header" align="center">
+    <h2>My daily.dev Handle</h2>
 <a href="https://app.daily.dev/VinCoD"><img src="https://api.daily.dev/devcards/425a70c37b0a4b758b04fe8341e9298d.png?r=2bg" width="400" alt="Odipo Otieno's Dev Card"/></a>
 </div>
 
