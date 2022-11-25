@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<img src="https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" alt="Coding GIF" style="border-radius:50%">
+<a href="https://app.daily.dev/VinCoD"><img src="https://api.daily.dev/devcards/425a70c37b0a4b758b04fe8341e9298d.png?r=2bg" width="400" alt="Odipo Otieno's Dev Card"/></a>
 </div>
 
 <hr/>
