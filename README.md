@@ -1,51 +1,36 @@
-<hr/>
-<h1 align="left">I'm Vincent Otieno</h1>
-<h3 align="left">A Web Developer from Kenya</h3>
-<h2 align="left">About Me</h2> 
+# Hi there! 👋
 
+I'm Vincent Otieno, a passionate web developer from Nairobi, Kenya. Welcome to my GitHub profile! 🌟
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/OdipoVince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VinCoD" height="25" width="25" /></a>
-<a href="https://instagram.com/maddetracks/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="VinCoD" height="25" width="25" /></a>
-<a href="https://www.linkedin.com/in/vincent-otieno-348b66233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vincent Otieno" height="25" width="25" /></a>
-<a href="https://www.youtube.com/channel/UCdMBvHugZtN_FZ6oh8L5BHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vincent Otieno" height="25" width="25" /></a>
-</p>
+## About Me
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="android" width="25" height="25"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="java" width="25" height="25"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="photoshop" width="25" height="25"/> </a> <a href="https://wagtail.org/" target="_blank" rel="noreferrer"> <img src="https://docs.wagtail.org/en/v1.7/_static/logo.png" alt="php" width="25" height="25"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> </p>
+👨‍💻 I am a passionate web developer with a strong focus on creating innovative and user-friendly applications. I enjoy working with various technologies and frameworks to build robust and scalable solutions.
 
-<h3>My Wakatime:</h3>
-<img align="center" src="https://wakatime.com/badge/user/e2738486-9642-4446-a17d-49fc2f5e8b8f.svg" alt="Vincent Otieno" height="20" width="150" />
+🌍 I am Kenyan and currently reside in Nairobi, Kenya. I take pride in contributing to the vibrant tech community in my country.
 
-<div id="header" align="center">
-    <h2>My daily.dev Handle</h2>
-<a href="https://app.daily.dev/VinCoD"><img src="https://api.daily.dev/devcards/425a70c37b0a4b758b04fe8341e9298d.png?r=2bg" width="400" alt="Odipo Otieno's Dev Card"/></a>
-</div>
+📚 In my free time, I love reading books on programming, exploring new technologies, and enhancing my skills. Continuous learning is essential to me, and I'm always excited about discovering new ways to improve my craft.
 
+💬 Feel free to ask me anything about web and mobile development. I'm always eager to share knowledge and help others. You can connect with me through the following platforms:
 
+- 📧 Email: [vincentotieno161@gmail.com](mailto:vincentotieno161@gmail.com)
+- 🐦 Twitter: [@OdipoVince](https://twitter.com/OdipoVince)
+- 📸 Instagram: [cobravincent](https://www.instagram.com/cobravincent/)
+- 🎵 TikTok: [@verydarkseid](https://www.tiktok.com/@verydarkseid)
+- 📺 YouTube: [Vincent Otieno](https://www.youtube.com/channel/UCdMBvHugZtN_FZ6oh8L5BHA)
 
-🕵️‍♂️ About Me
+## Projects
 
-    🙂 I am Vincent Otieno And I'm 21 years old.
+Here are some notable projects I've worked on:
 
-    📍 I am Kenyan and I currently live in Nairobi, Kenya.
-   
-    😎 Interested in contributing expertise in web and mobile development.
+- [sociobay](http://sociobay.pythonanywhere.com): A platform for selling social media accounts.
+- [mannuelportraits](http://mannuelportraits.co.ke): A photographer's portfolio website.
+- [ASLV-Uganda](http://aslv-uganda.org): Alliance To Save Lake Victoria - Uganda website.
+- [WSCSD-Kenya](http://wscsd-kenya.org): World Student Community for Sustainable Development - Kenya.
 
-    👯 Looking to collaborate on Innovative Projects.
+Feel free to explore these projects and provide any feedback or suggestions. I appreciate collaborative opportunities and contributions from the community.
 
-    👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
+## Let's Connect!
 
-    📚 Love reading books on Programming.
+I'm excited to connect with fellow developers, enthusiasts, and learners. Don't hesitate to reach out to me if you have any questions, project ideas, or just want to say hello. Connect with me on social media or drop me an email.
 
-    💬 Ask me about Web and mobile.
-    
-    ✨ I am Currently Working on a link sharing wesite while advancing my django skills
-
-
-<!---
-mrpaziresh/mrpaziresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. 
---->
- 
+Thank you for visiting my GitHub profile, and happy coding! 😄🚀
