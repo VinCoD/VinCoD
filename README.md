@@ -26,7 +26,7 @@ Here are some notable projects I've worked on:
 - [mannuelportraits](https://mannuelportraits.co.ke): A photographer's portfolio website.
 - [ASLV-Uganda](https://aslv-uganda.org): Alliance To Save Lake Victoria - Uganda website.
 - [WSCSD-Kenya](https://wscsd-kenya.org): World Student Community for Sustainable Development - Kenya.
-- [Linkshare](https://linkshare.onrender.com): A Platform for sharing Links to Resources.
+- [Linkshare](https://linkshare.onrender.com/): A Platform for sharing Links to Resources.
 
 Feel free to explore these projects and provide any feedback or suggestions. I appreciate collaborative opportunities and contributions from the community.
 
