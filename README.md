@@ -22,7 +22,7 @@ I'm Vincent Otieno, a passionate web developer from Nairobi, Kenya. Welcome to m
 
 Here are some notable projects I've worked on:
 
-- [sociobay](https://sociobay.pythonanywhere.com): A platform for selling social media accounts.
+- [sociobay](https://sociobay.onrender.com): A platform for selling social media accounts.
 - [mannuelportraits](https://mannuelportraits.co.ke): A photographer's portfolio website.
 - [ASLV-Uganda](https://aslv-uganda.org): Alliance To Save Lake Victoria - Uganda website.
 - [WSCSD-Kenya](https://wscsd-kenya.org): World Student Community for Sustainable Development - Kenya.
