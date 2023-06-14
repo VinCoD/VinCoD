@@ -16,7 +16,7 @@ I'm Vincent Otieno, a passionate web developer from Nairobi, Kenya. Welcome to m
 - 🐦 Twitter: [@OdipoVince](https://twitter.com/OdipoVince)
 - 📸 Instagram: [cobravincent](https://www.instagram.com/cobravincent/)
 - 🎵 TikTok: [@verydarkseid](https://www.tiktok.com/@verydarkseid)
-- 📺 YouTube: [Vincent Otieno](https://www.youtube.com/channel/UCdMBvHugZtN_FZ6oh8L5BHA)
+- 📺 YouTube: [KwargDevs](https://www.youtube.com/channel/UCdMBvHugZtN_FZ6oh8L5BHA)
 
 ## Projects
 
