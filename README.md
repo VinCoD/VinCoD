@@ -14,19 +14,16 @@ I'm Vincent Otieno, a passionate web developer from Nairobi, Kenya. Welcome to m
 
 - 📧 Email: [vincentotieno161@gmail.com](mailto:vincentotieno161@gmail.com)
 - 🐦 Twitter: [@OdipoVince](https://twitter.com/OdipoVince)
-- 📸 Instagram: [odipootieno](https://www.instagram.com/odipootieno/)
-- 🎵 TikTok: [@verydarkseid](https://www.tiktok.com/@verydarkseid)
+- 📸 Instagram: [odipootieno](https://www.instagram.com/thetavincent/)
+- 🎵 TikTok: [@verydarkseid](https://www.tiktok.com/@vinthedev)
 - 📺 YouTube: [KwargDevs](https://www.youtube.com/channel/UCdMBvHugZtN_FZ6oh8L5BHA)
 
 ## Projects
 
 Here are some notable projects I've worked on:
 
-- [sociobay](https://sociobay.onrender.com): A platform for selling social media accounts.
-- [mannuelportraits](https://mannuelportraits.co.ke): A photographer's portfolio website.
-- [ASLV-Uganda](https://aslv-uganda.org): Alliance To Save Lake Victoria - Uganda website.
-- [WSCSD-Kenya](https://wscsd-kenya.org): World Student Community for Sustainable Development - Kenya.
-- [Linkshare](https://linkshare.onrender.com/): A Platform for sharing Links to Resources.
+- [mannuelweddings](https://mannuelweddings.com): A photographer's portfolio website.
+
 
 Feel free to explore these projects and provide any feedback or suggestions. I appreciate collaborative opportunities and contributions from the community.
 
