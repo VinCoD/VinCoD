@@ -14,8 +14,8 @@ I'm Vincent Otieno, a passionate web developer from Nairobi, Kenya. Welcome to m
 
 - 📧 Email: [vincentotieno161@gmail.com](mailto:vincentotieno161@gmail.com)
 - 🐦 Twitter: [@OdipoVince](https://twitter.com/OdipoVince)
-- 📸 Instagram: [odipootieno](https://www.instagram.com/thetavincent/)
-- 🎵 TikTok: [@verydarkseid](https://www.tiktok.com/@vinthedev)
+- 📸 Instagram: [thetavincent](https://www.instagram.com/thetavincent/)
+- 🎵 TikTok: [@VinTheDev](https://www.tiktok.com/@vinthedev)
 - 📺 YouTube: [KwargDevs](https://www.youtube.com/channel/UCdMBvHugZtN_FZ6oh8L5BHA)
 
 ## Projects
